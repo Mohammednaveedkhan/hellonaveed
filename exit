@@ -1,0 +1,48 @@
+[33mcommit c0e6e0a974aab728c90c695593d3719bd328068c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b302ec0 3ebc67a
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 21:24:54 2023 +0530
+
+    Merge branch 'test'
+
+[33mcommit b302ec00bb2703f587f4206b474c50157a6b3c2a[m
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 21:14:17 2023 +0530
+
+    f
+
+[33mcommit 3ebc67a9f6866bcf465ac748a9dd9b963270df13[m[33m ([m[1;32mtest[m[33m)[m
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 21:10:44 2023 +0530
+
+    d
+
+[33mcommit b369969cf9fcf1f135765fa9a31128b4b3c842cc[m
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 21:10:33 2023 +0530
+
+    c
+
+[33mcommit e4a05b8eec76a9850e921688f13dae72c95708cc[m
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 21:04:59 2023 +0530
+
+    b
+
+[33mcommit 6cc338f9e43408adf109f8241a1f13dd3a0f7032[m
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 21:04:43 2023 +0530
+
+    a
+
+[33mcommit efc6be12cb0c0a15252375711b56dc1b8b6d0088[m
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 15:10:06 2023 +0530
+
+    second commit
+
+[33mcommit b61981e7ac637dcada21b110d63a86a08de91415[m
+Author: Naveed <naveedkhan7517527@gmail.com>
+Date:   Wed Aug 16 15:07:38 2023 +0530
+
+    firstcommit
